@@ -1,0 +1,9 @@
+text,label
+"Click here to reset your password http://fake.com",phishing
+"Your bank account needs verification urgently",phishing
+"Win a free iPhone now!!!",phishing
+"Meeting scheduled at 10 AM tomorrow",safe
+"Please find the attached report",safe
+"Let’s have lunch today",safe
+"Update your login credentials immediately",phishing
+"Project deadline extended to next week",safe
